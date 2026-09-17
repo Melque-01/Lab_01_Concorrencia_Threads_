@@ -93,7 +93,7 @@ Como cada passo exige ciclos de clock separados, o escalonador de processos do S
 
 ---
 
-### Questão 2: Custo do Lock (Overhead)
+### Questão 2: Custo do Lock Overhead
 **Pergunta:** Compare o tempo de execução entre as versões insegura e segura. Por que o Lock adiciona sobrecarga (overhead)?
 
 **Resposta:**
@@ -104,7 +104,7 @@ A versão segura exige mais tempo para finalizar do que a versão insegura. Esse
 
 ---
 
-## 5. Desafio Extra (Bônus)
+## 5. Desafio Extra
 
 Criamos uma variação que simula 3 threads concorrentes:
 - **Thread 1:** Depósitos de R$ 1,00 (100.000 ops)
